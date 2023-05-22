@@ -9,8 +9,15 @@ https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serializa
 This RFC adds serde support for AWS SDK for rust!
 
 ### Example that shows how to convert query result into rust struct \#2959 
-Add an example that shows how to convert query result into rust struct for apache data fusion project.
 https://github.com/apache/arrow-datafusion/pull/2969
+
+Add an example that shows how to convert query result into rust struct for apache data fusion project.
+
+### Analysis of Market Activities on Osaka Exchange with snapshot of ITCH protocol messages
+https://thomas-k-cameron.github.io/my-mbo-analysis-book/
+
+I analyzed Osaka Exchange by using ITCH messages distributed during March 2021 with a dataset that consisted of over 45 billion records. 
+
 
 ## Work In Progress
 
