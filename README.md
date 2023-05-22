@@ -1,13 +1,31 @@
 ### Hi there 👋
-**thomas-k-cameron/thomas-k-cameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thomas-k-cameron/thomas-k-cameron** 
+I'm a random software engineer on the internet.
 
-Here are some ideas to get you started:
+## Stuff that I've worked on
+### Serde Support For AWS SDK for Rust
+https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serialization_and_deserialization.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This RFC adds serde support for AWS SDK for rust!
+
+### Example that shows how to convert query result into rust struct \#2959 
+Add an example that shows how to convert query result into rust struct for apache data fusion project.
+https://github.com/apache/arrow-datafusion/pull/2969
+
+## Work In Progress
+
+### Generic order book simulator that works with data from different venues
+https://github.com/thomas-k-cameron/tom_orderbook
+
+I've built one that works with Moscow exchange and Osaka Exchange in the past, so I'm trying to make something that works with every data format.
+
+### Hakcer Detection
+I'm trying to build an algorithm that detects hackers. 
+I was able to discover that replay 
+This is going to take some time and rpeo is currently private.
+
+
+## My Interest
+- Code Generation
+- Developer productivity
+- Financial Markets
