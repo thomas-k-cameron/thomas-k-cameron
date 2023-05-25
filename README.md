@@ -1,5 +1,4 @@
 ### Hi there 👋
-**thomas-k-cameron/thomas-k-cameron** 
 I'm a random software engineer on the internet.
 
 ## Stuff that I've worked on
