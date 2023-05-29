@@ -23,8 +23,7 @@ https://github.com/thomas-k-cameron/tom_orderbook
 I've built one that works with Moscow exchange and Osaka Exchange in the past, so I'm trying to make something that works with every data format.
 
 ### Hakcer Detection
-I'm trying to build an algorithm that detects hackers. 
-I was able to discover that replay 
+I'm trying to build an algorithm that detects hackers on CSGO.   
 This is going to take some time and rpeo is currently private.
 
 
