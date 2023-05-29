@@ -1,23 +1,22 @@
 ### Hi there 👋
 I'm a random software engineer on the internet.
 
-## Stuff that I've worked on
-### AWS SDK for Rust
-https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serialization_and_deserialization.md  
+## My Open Source Contribution
+### Small Stuff
+- [Example for converting dataframe to Rust Datatype on Apache Datafusion](https://github.com/apache/arrow-datafusion/pull/2969)
+- [Bug Fix: Function is not converting data into enum Action properly #15](https://github.com/databento/dbn/pull/15)
+### New Feature
+- [AWS SDK for Rust](https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serialization_and_deserialization.md)
+
 This RFC adds serde support for AWS SDK for rust!
 
-### Apache Datafusion
-https://github.com/apache/arrow-datafusion/pull/2969  
-Add an example that shows how to convert query result into rust struct for apache data fusion project.
-
+## Personal Project
 ### Analysis of Market Activities on Osaka Exchange with snapshot of ITCH protocol messages
 https://thomas-k-cameron.github.io/my-mbo-analysis-book/
 
 I analyzed Osaka Exchange by using ITCH messages distributed during March 2021 with a dataset that consisted of over 45 billion records. 
 
-
 ## Work In Progress
-
 ### Generic order book simulator that works with data from different venues
 https://github.com/thomas-k-cameron/tom_orderbook
 
