@@ -5,10 +5,10 @@ I'm a random software engineer on the internet.
 ### Small Stuff
 - [Example for converting dataframe to Rust Datatype on Apache Datafusion](https://github.com/apache/arrow-datafusion/pull/2969)
 - [Bug Fix: Function is not converting data into enum Action properly #15](https://github.com/databento/dbn/pull/15)
-### New Feature
-- [AWS SDK for Rust](https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serialization_and_deserialization.md)
+### Large Impact
+- [Serde Support for AWS SDK for Rust](https://github.com/awslabs/smithy-rs/blob/main/design/src/rfcs/rfc0030_serialization_and_deserialization.md)
 
-This RFC adds serde support for AWS SDK for rust!
+  This is an ambitious project that adds serde support for official AWS SDK for rust!
 
 ## Personal Project
 ### Analysis of Market Activities on Osaka Exchange with snapshot of ITCH protocol messages
